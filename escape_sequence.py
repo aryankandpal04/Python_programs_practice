@@ -1,2 +1,5 @@
 print("My name is Aryan Kandpal \nI live in Halduchaur")
 print("He is very good \"boy\" and \'shy\' also")
+print(" Aryan Kandpal "," Rohit verma ", " Ashish Chaudshi ", sep="~")
+print("Amit Verma", end="\n")
+print("Vikas Bhagat")
