@@ -1,2 +1,6 @@
 print("hello_world")
 print(23+58)
+print('''hello aryan''')
+print('hii')
+print("hello",'hello', '''hello''')
+print("hello" 'hello' '''hello''')
