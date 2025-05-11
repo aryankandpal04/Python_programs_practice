@@ -1,11 +1,15 @@
+print("\t\tExample No. 1\n")
 a = 5535
 print(a)
 b = "aryan"
 print(b)
 
+print("\n\t\tExample No. 2\n")
 num1 = 45
 num2 = 65
 print(num1+num2)
+
+print("\n\t\tExample No. 3\n")
 f = 53.16
 c = True
 l = [1 , 'aryan' , 80.36 , True]
@@ -18,9 +22,8 @@ dist = {
     'age'  : [21 , 22 , 23]
 }
 
-
 print("type of num1 = ", num1, type(num1))
-print("type of a = ", f, type(f))
+print("type of f = ", f, type(f))
 print("type of b = ", b, type(b))
 print("type of c = ", c, type(c))
 print("type of l = ", l, type(l))
