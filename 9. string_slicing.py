@@ -6,4 +6,4 @@ print(str2)
 print(str1 + str2)
 
 print(str1[0:8])
-print(len(str2))
+print(len(str1))
