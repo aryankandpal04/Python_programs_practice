@@ -17,3 +17,5 @@ print(str1[-5:-2 ])
 
 print(str1[-5:len(str1)-2])
 
+str3 = 'Harry'
+print(str3[-4:-2])
