@@ -13,3 +13,7 @@ print(str1[:])
 
 print(str2[:5])
 
+print(str1[-5:-2 ])
+
+print(str1[-5:len(str1)-2])
+
