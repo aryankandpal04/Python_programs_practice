@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/your-username/Python_programs_practice?style=social" />
+  <img src="https://img.shields.io/github/stars/aryankandpal04/Python_programs_practice?style=social" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
