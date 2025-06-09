@@ -1,13 +1,3 @@
-🐍 Python Programs Practice
-
-Welcome to **Python Programs Practice** – your one-stop collection of Python codes, from beginner to advanced levels, designed to strengthen your concepts through hands-on problem solving.
-
-![Python Banner](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-
-
-# Run a program
-python filename.py
 <h1 align="center">🐍 Python Programs Practice</h1>
 
 <p align="center">
@@ -19,6 +9,10 @@ python filename.py
 <p align="center">
   🚀 A curated collection of Python programs from beginner to advanced level.<br>
   Build logic, master syntax, and polish your Python coding skills.
+  
+Welcome to **Python Programs Practice** – your one-stop collection of Python codes, from beginner to advanced levels, designed to strengthen your concepts through hands-on problem solving.
+
+![Python Banner](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 </p>
 
 <p align="center">
