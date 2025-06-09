@@ -9,10 +9,14 @@
 <p align="center">
   🚀 A curated collection of Python programs from beginner to advanced level.<br>
   Build logic, master syntax, and polish your Python coding skills.
-  
-Welcome to **Python Programs Practice** – your one-stop collection of Python codes, from beginner to advanced levels, designed to strengthen your concepts through hands-on problem solving.
+</p>
 
-![Python Banner](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<p align="center">
+  Welcome to <strong>Python Programs Practice</strong> – your one-stop collection of Python codes, from beginner to advanced levels, designed to strengthen your concepts through hands-on problem solving.
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="120" alt="Python Logo">
 </p>
 
 <p align="center">
@@ -20,4 +24,3 @@ Welcome to **Python Programs Practice** – your one-stop collection of Python c
 </p>
 
 ---
-
