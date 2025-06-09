@@ -50,3 +50,56 @@ cd Python_programs_practice
 
 # Run a program
 python filename.py
+<h1 align="center">🐍 Python Programs Practice</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/your-username/Python_programs_practice?style=social" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+</p>
+
+<p align="center">
+  🚀 A curated collection of Python programs from beginner to advanced level.<br>
+  Build logic, master syntax, and polish your Python coding skills.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajkumaar23/random-assets/master/code-typing.gif" width="500" alt="Python Coding GIF">
+</p>
+
+---
+
+## 📌 Features
+
+✅ 100+ Python Programs  
+📁 Organized by Categories  
+💬 Well Commented & Beginner Friendly  
+📸 Output Previews & GIFs  
+🛠️ Projects & Real Use Cases  
+🆕 Regularly Updated
+
+---
+
+## 🧠 About
+
+This repo is your **Python playground** — designed to help beginners, students, and self-learners sharpen their coding abilities using real Python problems and solutions.
+
+---
+
+## 🧩 Table of Contents
+
+- [Installation](#installation)
+- [Folder Structure](#folder-structure)
+- [Categories & Examples](#categories--examples)
+- [How to Run](#how-to-run)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 💻 Installation
+
+```bash
+git clone https://github.com/your-username/Python_programs_practice.git
+cd Python_programs_practice
+python filename.py
